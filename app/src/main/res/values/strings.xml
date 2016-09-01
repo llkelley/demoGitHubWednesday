@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemoGitHubWednesday</string>
+    <string name="message">Hello GitHub</string>
 </resources>
